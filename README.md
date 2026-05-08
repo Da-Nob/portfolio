@@ -1,6 +1,6 @@
 # Portfólio Pessoal - Daniel Noberto
 
-Portfólio desenvolvido com HTML, CSS, JavaScript e Vite.
+Portfólio pessoal desenvolvido com HTML, CSS, JavaScript e Vite.
 
 ## Como rodar
 
